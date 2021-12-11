@@ -3,7 +3,7 @@ nav .nav-wrapper .brand-logo {
     font-family: 'Times New Roman', cursive !important;
 }
   .acitve-link{
-    color: #d847f1;
+    color:green;
     font-weight: bold;
   }
   
@@ -59,4 +59,8 @@ nav .nav-wrapper .brand-logo {
   .btn-extend {
     display: block;
     width: 100%;
+  }
+
+  section .li .tabs {
+    text-size-adjust: medium;
   }
